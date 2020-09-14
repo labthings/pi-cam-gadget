@@ -1,6 +1,6 @@
-name: pi
+name: pi-cam
 version: 20-1
-summary: Raspberry Pi gadget
+summary: Raspberry Pi gadget with camera enabled
 description: |
  Support files for booting Raspberry Pi.
  This gadget snap supports the Raspberry Pi 2B, 3B, 3A+, 3B+, 4B, Compute
