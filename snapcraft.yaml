@@ -10,6 +10,8 @@ base: core20
 architectures:
   - build-on: arm64
     run-on: arm64
+  - build-on: armhf
+    run-on: armhf
 confinement: strict
 grade: stable
 parts:
